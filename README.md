@@ -1,4 +1,13 @@
-Docker: Utilização prática no cenário de Microsserviços
-Denilson Bonatti, Instrutor - Digital Innovation One
+# Docker: Practical Use in the Microservices Scenario
 
-Muito se tem falado de containers e consequentemente do Docker no ambiente de desenvolvimento. Mas qual a real função de um container no cenários de microsserviços? Qual a real função e quais exemplos práticos podem ser aplicados no dia a dia? Essas são algumas das questões que serão abordadas de forma prática pelo Expert Instructor Denilson Bonatti nesta Live Coding. IMPORTANTE: Agora nossas Live Codings acontecerão no canal oficial da dio._ no YouTube. Então, já corre lá e ative o lembrete! Pré-requisitos: Conhecimentos básicos em Linux, Docker e AWS.
+This repository is a fork of the [original project](https://github.com/denilsonbonatti/toshiro-shibakita) by Denilson Bonatti. The goal of this project is to implement a microservices structure using Docker, following the best practices in the international market.
+
+## Prerequisites
+
+I am undertaking this project with basic knowledge in Linux, Docker, and AWS.
+
+## The Challenge
+
+In this challenge, I am replicating (and hopefully improving) this practical project, creating my own repository and thereby increasing my portfolio of projects on GitHub! I am inspired by the story of TOSHIRO SHIBAKITA and I'm excited to evolve with the help of the Cloud ☁️😍☁️
+
+Tip: I have forked the GitHub Repository (aka, "Guia Melzinho na Chupeta") to organize my changes and evolutions, keeping a direct reference to the original code.

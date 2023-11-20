@@ -1,2 +1,4 @@
-FROM nginx
-COPY nginx.conf /etc/nginx/nginx.conf
+FROM php:7.4-fpm
+COPY . /var/www/html/
+WORKDIR /var/www/html/
+RUN docker-php-ext-install mysqli
